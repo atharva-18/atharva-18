@@ -10,7 +10,3 @@ _Autonomous Systems Engineer_ at **DJS Racing Driverless**
 _Bachelor of Engineering (Electronics Engineering)_ from **Dwarkadas J. Sanghvi College of Engineering**  
 
 Perception **|** Geometric Vision **|** SLAM **|** Control Systems **|** Self-Driving Cars  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharva-18&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-18&layout=compact&hide=html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
