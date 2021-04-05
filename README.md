@@ -7,6 +7,6 @@
 <!--[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=FFFFFF&link=https://www.youtube.com/channel/UCOs8CeDw-JCQvhcCAE_b6-A)](https://www.youtube.com/channel/UCOs8CeDw-JCQvhcCAE_b6-A)-->
 
 _Autonomous Systems Engineer_ at **DJS Racing Driverless**  
-_Bachelor of Engineering (Electronics Engineering)_ from **Dwarkadas J. Sanghvi College of Engineering**  
+_Bachelor of Engineering in Electronics_ from **Dwarkadas J. Sanghvi College of Engineering**  
 
 Perception **|** Geometric Vision **|** SLAM **|** Control Systems **|** Self-Driving Cars  
