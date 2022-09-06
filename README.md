@@ -8,7 +8,7 @@
 
 _Autonomous Systems Engineer_ at **DJS Racing Driverless**  
 
-Incoming graduate student at **The Robotics Institute, Carnegie Mellon University**
+Graduate student at **The Robotics Institute, Carnegie Mellon University**
 
 _Bachelor of Engineering in Electronics_ from **Dwarkadas J. Sanghvi College of Engineering**  
 
