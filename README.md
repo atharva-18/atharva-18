@@ -6,8 +6,6 @@
 <!--[![Twitter](https://img.shields.io/badge/-@AtharvaPusalkar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AtharvaPusalkar)](https://twitter.com/AtharvaPusalkar)-->
 <!--[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=FFFFFF&link=https://www.youtube.com/channel/UCOs8CeDw-JCQvhcCAE_b6-A)](https://www.youtube.com/channel/UCOs8CeDw-JCQvhcCAE_b6-A)-->
 
-_Autonomous Systems Engineer_ at **DJS Racing Driverless**  
-
 Graduate student at **The Robotics Institute, Carnegie Mellon University**
 
 _Bachelor of Engineering in Electronics_ from **Dwarkadas J. Sanghvi College of Engineering**  
