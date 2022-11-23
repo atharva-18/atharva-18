@@ -6,8 +6,10 @@
 <!--[![Twitter](https://img.shields.io/badge/-@AtharvaPusalkar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AtharvaPusalkar)](https://twitter.com/AtharvaPusalkar)-->
 <!--[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=FFFFFF&link=https://www.youtube.com/channel/UCOs8CeDw-JCQvhcCAE_b6-A)](https://www.youtube.com/channel/UCOs8CeDw-JCQvhcCAE_b6-A)-->
 
-Graduate student at **The Robotics Institute, Carnegie Mellon University**
+Hi, welcome to my profile!
 
-_Bachelor of Engineering in Electronics_ from **Dwarkadas J. Sanghvi College of Engineering**  
+I am a graduate student at **The Robotics Institute, Carnegie Mellon University**, working at the Robotic Caregiving and Human-interaction Lab at CMU Robotics Institute.
+
+I hold a _Bachelor of Engineering in Electronics_ degree from **Dwarkadas J. Sanghvi College of Engineering**  
 
 Perception **|** Geometric Vision **|** SLAM **|** Control Systems **|** Self-Driving Cars  
