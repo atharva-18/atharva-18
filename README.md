@@ -8,7 +8,7 @@
 
 Hi, welcome to my profile!
 
-I am a graduate student at **The Robotics Institute, Carnegie Mellon University**, working at the Robotic Caregiving and Human-interaction Lab at CMU Robotics Institute.
+I am a graduate student in **The Robotics Institute, Carnegie Mellon University**, working at the Robotic Caregiving and Human-interaction Lab.
 
 I hold a _Bachelor of Engineering in Electronics_ degree from **Dwarkadas J. Sanghvi College of Engineering**  
 
